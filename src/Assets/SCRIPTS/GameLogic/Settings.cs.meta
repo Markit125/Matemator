@@ -1,0 +1,60 @@
+fileFormatVersion: 2
+guid: 86d19d410d1af1f47bb4dcfd680fce8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - n0: {fileID: 7988517006448757333, guid: c35ddbb5f023a484688fce702dad0942, type: 3}
+  - n1: {fileID: 3620244301843986271, guid: 3df42c341a8f1054685eee4a828d8b5d, type: 3}
+  - n2: {fileID: 2193459887143342611, guid: 6518cf2524847e244b6ee05defa9d7da, type: 3}
+  - n3: {fileID: 8410789025137286581, guid: 1eb8e0f9fe8908a47b9c9f95303e20a6, type: 3}
+  - n4: {fileID: 485657944052943669, guid: f801e10d9f772f34fa1a6ea104b5209c, type: 3}
+  - n5: {fileID: 7606124510896694987, guid: 9fa4f4f27933dd746ba0d9df4132f3fb, type: 3}
+  - n6: {fileID: 1180602995373752662, guid: d6e4a1a3f5c2413498d8f686659f2155, type: 3}
+  - n7: {fileID: 8097162141269149787, guid: 8144f32e7e612a146a069a9c9372e285, type: 3}
+  - n8: {fileID: 4617607997906501325, guid: 3cb45252a052cb44a9434014298b59ed, type: 3}
+  - n9: {fileID: 8100093124605412556, guid: 2df34db7871a7734a80f703cbc0d857e, type: 3}
+  - nm: {instanceID: 0}
+  - t0: {instanceID: 0}
+  - t1: {instanceID: 0}
+  - t2: {instanceID: 0}
+  - t3: {instanceID: 0}
+  - t4: {instanceID: 0}
+  - t5: {instanceID: 0}
+  - t6: {instanceID: 0}
+  - t7: {instanceID: 0}
+  - t8: {instanceID: 0}
+  - t9: {instanceID: 0}
+  - tm: {instanceID: 0}
+  - a0: {instanceID: 0}
+  - a1: {instanceID: 0}
+  - a2: {instanceID: 0}
+  - a3: {instanceID: 0}
+  - a4: {instanceID: 0}
+  - a5: {instanceID: 0}
+  - a6: {instanceID: 0}
+  - a7: {instanceID: 0}
+  - a8: {instanceID: 0}
+  - a9: {instanceID: 0}
+  - am: {instanceID: 0}
+  - ta0: {instanceID: 0}
+  - ta1: {instanceID: 0}
+  - ta2: {instanceID: 0}
+  - ta3: {instanceID: 0}
+  - ta4: {instanceID: 0}
+  - ta5: {instanceID: 0}
+  - ta6: {instanceID: 0}
+  - ta7: {instanceID: 0}
+  - ta8: {instanceID: 0}
+  - ta9: {instanceID: 0}
+  - tam: {instanceID: 0}
+  - memory: {instanceID: 0}
+  - txt: {instanceID: 0}
+  - Readybtn: {instanceID: 0}
+  - InputTap: {instanceID: 0}
+  - Dozator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
